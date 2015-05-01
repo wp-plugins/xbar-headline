@@ -42,7 +42,7 @@ use this custom field names with a hex value color
 4. xbar_title_color
 
 == Screenshots ==
-/assets/scr01.jpg
+<img src="/assets/scr01.jpg" />
 
 == Frequently Asked Questions ==
 
