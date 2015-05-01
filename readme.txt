@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Make your introductory texts standout and noticeable with xbar healine! use this plugin in your marketing promos, latest news, sale coupons etc.
+Make your introductory texts standout and noticeable with xbar headline! use this plugin in your marketing promos, latest news, sale coupons etc.
 
 == Description ==
 
-xbar Headline is a tool for making your specials events, a news headline, a sales coupon etc. to standout at the top of your wordpress site.
+xbar Headline is a tool for making your special event, news headline, sales coupon etc. to standout at the top of your wordpress site.
 
 with xbar headline you'll attract visitors and make it easy for them to know that you have an offer or an announcement. 
 
@@ -41,6 +41,9 @@ use this custom field names with a hex value color
 3. xbar_title_background
 4. xbar_title_color
 
+== Screenshots ==
+/assets/scr01.jpg
+
 == Frequently Asked Questions ==
 
 = Any support for this plugin? =
@@ -54,4 +57,3 @@ you can email me at meotester2014@gmail.com for your questions/support/inquiries
 * Current version.
 
 
-`<?php code(); // goes in backticks ?>`
