@@ -41,9 +41,6 @@ use this custom field names with a hex value color
 3. xbar_title_background
 4. xbar_title_color
 
-== Screenshots ==
-<img src="/assets/scr01.jpg" />
-
 == Frequently Asked Questions ==
 
 = Any support for this plugin? =
