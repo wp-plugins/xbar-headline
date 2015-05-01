@@ -2,7 +2,7 @@
     /*
     Plugin Name: X Bar
     Plugin URI: http://www.meowp.gq/xbar
-    Description: A Headline News Bar Notice! <br/> with this Xbar Headline plugin you can make your introductory text noticeable! whether your promoting your latest promo, share your discount coupons, post your important events etc. Just install and activate, add title, description and your ON! make visible and exposed with Xbar Headline! <br/> some info: use this as custom field names and add hex color you like (eg. #000fff, #333333 etc. ) xbar_content_color, xbar_background,xbar_title_background,xbar_title_color   
+    Description: A Headline News Bar Notice! <br/> with this Xbar Headline plugin you can make your introductory text noticeable! whether your promoting your latest promo, share your discount coupons, post your important events etc. Just install and activate, add title, description and your ON! make visible and exposed with Xbar Headline! <br/> some info: use this as custom field names xbar_content_color, xbar_background,xbar_title_background,xbar_title_color and add hex value colors ex: #ffffff, #fff000 etc.  
     Author: Romeo Asis
     Version: 1.0
     Author URI: http://www.meowp.gq
