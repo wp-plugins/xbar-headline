@@ -41,15 +41,14 @@ use this custom field names with a hex value color
 3. xbar_title_background
 4. xbar_title_color
 
-== Screenshots ==
-1. xbar Headline Screenshot
-
 == Frequently Asked Questions ==
 
 = Any support for this plugin? =
 
 you can email me at meotester2014@gmail.com for your questions/support/inquiries/troubleshooting for this plugin.
 
+== Screenshots ==
+1. xbar Headline Screenshot
 
 == Changelog ==
 
